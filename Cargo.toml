@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-ecryptfs component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-ecryptfs"
+name = "sigmaos_archlinux_ecryptfs"
 path = "src/lib.rs"
