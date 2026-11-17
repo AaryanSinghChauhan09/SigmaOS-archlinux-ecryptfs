@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-ecryptfs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-ecryptfs component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
